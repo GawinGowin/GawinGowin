@@ -1,4 +1,11 @@
-### Hi there 👋
+### Interest
+
+[![Skills](https://skillicons.dev/icons?i=python,django,flask,tensorflow,flutter,react&theme=dark)](https://skillicons.dev)
+
+<a href="https://github.com/GawinGowin">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=GawinGowin&count_private=true&show_icons=true&theme=dark" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GawinGowin&layout=compact&theme=dark" />
+</a>
 
 <!--
 **GawinGowin/GawinGowin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
