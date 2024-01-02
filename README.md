@@ -3,7 +3,7 @@
 [![Skills](https://skillicons.dev/icons?i=python,tensorflow,django,flask,flutter,react,aws,gcp,docker,k8s,bash,c&theme=dark)](https://skillicons.dev)
 
 <a href="https://github.com/GawinGowin">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=GawinGowin&count_private=true&show_icons=true&theme=dark" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=GawinGowin&show_icons=true&theme=dark" />
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GawinGowin&layout=compact&theme=dark" />
 </a>
 
