@@ -1,6 +1,6 @@
 ### Interest
 
-[![Skills](https://skillicons.dev/icons?i=python,django,flask,flutter,gcp,docker,k8s,bash,c,go,TypeScript&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,django,flask,flutter,gcp,docker,k8s,bash,c,go,ts&theme=dark)](https://skillicons.dev)
 
 <a href="https://github.com/GawinGowin">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=GawinGowin&show_icons=true&theme=dark" />
